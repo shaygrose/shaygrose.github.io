@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './Experience.css';
 import './index.css';
 
