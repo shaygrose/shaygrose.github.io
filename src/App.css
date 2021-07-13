@@ -12,7 +12,7 @@
 }
 
 .App-header {
-  background-color: #FFFFFF;
+  background-color: #FFFFFA;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,4 +36,20 @@
 
 .App-link:hover {
   color: #EF626C;
+}
+
+.page-header {
+  margin-left: 70px;
+  padding-top: 20px;
+  margin-top: 0px;
+}
+
+.page-header h2 {
+  font-family: "Amatic SC";
+  font-size: calc(50px + 2vmin);
+}
+
+.page-content {
+  min-height: 100vh;
+  margin: 0;
 }
