@@ -12,7 +12,7 @@
 }
 
 .App-header {
-  background-color: #FFFFFA;
+  background-color: #0D5C63;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,9 +22,11 @@
   font-size: calc(6px + 2vmin);
   color: #287574;
   text-align: center;
+  color: #FFFFFA;
 }
 
 .App-header h1 {
+  color: #FFFFFA;
   font-size: calc(100px + 2vmin);
   font-family: "Amatic SC";
 }

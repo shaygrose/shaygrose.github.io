@@ -13,15 +13,7 @@ function Home() {
             Shayna Grose
           </h1>
           <p>
-            Welcome to my website! It's currently under construction but in the meantime feel free to check out my&nbsp;
-            <a
-              className="App-link"
-              href="https://www.linkedin.com/in/shayna-grose-0/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              LinkedIn
-            </a>
+            Welcome to my website! It's currently under construction but should be up and running soon!
           </p>
           
         </header>

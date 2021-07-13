@@ -18,11 +18,11 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <About />
+    {/* <About />
     <Experience />
     <Skills />
     <Projects />
-    <Education />
+    <Education /> */}
     <Contact />
 
 
