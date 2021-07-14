@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/shaygrose/static/css/main.79853e1c.chunk.css",
-    "main.js": "/shaygrose/static/js/main.cbe32e06.chunk.js",
-    "main.js.map": "/shaygrose/static/js/main.cbe32e06.chunk.js.map",
-    "runtime-main.js": "/shaygrose/static/js/runtime-main.c5b58ff7.js",
-    "runtime-main.js.map": "/shaygrose/static/js/runtime-main.c5b58ff7.js.map",
-    "static/js/2.c78bd1b2.chunk.js": "/shaygrose/static/js/2.c78bd1b2.chunk.js",
-    "static/js/2.c78bd1b2.chunk.js.map": "/shaygrose/static/js/2.c78bd1b2.chunk.js.map",
+    "main.css": "/shaygrose/static/css/main.f6be16c9.chunk.css",
+    "main.js": "/shaygrose/static/js/main.19710058.chunk.js",
+    "main.js.map": "/shaygrose/static/js/main.19710058.chunk.js.map",
+    "runtime-main.js": "/shaygrose/static/js/runtime-main.b997f406.js",
+    "runtime-main.js.map": "/shaygrose/static/js/runtime-main.b997f406.js.map",
+    "static/css/2.115d7120.chunk.css": "/shaygrose/static/css/2.115d7120.chunk.css",
+    "static/js/2.c5db7c1b.chunk.js": "/shaygrose/static/js/2.c5db7c1b.chunk.js",
+    "static/js/2.c5db7c1b.chunk.js.map": "/shaygrose/static/js/2.c5db7c1b.chunk.js.map",
+    "static/js/3.37a91871.chunk.js": "/shaygrose/static/js/3.37a91871.chunk.js",
+    "static/js/3.37a91871.chunk.js.map": "/shaygrose/static/js/3.37a91871.chunk.js.map",
     "index.html": "/shaygrose/index.html",
-    "precache-manifest.6953e1188b8b49fc7cd35b39e2253c54.js": "/shaygrose/precache-manifest.6953e1188b8b49fc7cd35b39e2253c54.js",
-    "service-worker.js": "/shaygrose/service-worker.js",
-    "static/css/main.79853e1c.chunk.css.map": "/shaygrose/static/css/main.79853e1c.chunk.css.map",
-    "static/js/2.c78bd1b2.chunk.js.LICENSE.txt": "/shaygrose/static/js/2.c78bd1b2.chunk.js.LICENSE.txt",
-    "static/media/headshot.jpg": "/shaygrose/static/media/headshot.900597f3.jpg",
-    "static/media/logo.svg": "/shaygrose/static/media/logo.5d5d9eef.svg"
+    "static/css/2.115d7120.chunk.css.map": "/shaygrose/static/css/2.115d7120.chunk.css.map",
+    "static/css/main.f6be16c9.chunk.css.map": "/shaygrose/static/css/main.f6be16c9.chunk.css.map",
+    "static/js/2.c5db7c1b.chunk.js.LICENSE.txt": "/shaygrose/static/js/2.c5db7c1b.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/shaygrose/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/font-awesome.min.css": "/shaygrose/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5b58ff7.js",
-    "static/js/2.c78bd1b2.chunk.js",
-    "static/css/main.79853e1c.chunk.css",
-    "static/js/main.cbe32e06.chunk.js"
+    "static/js/runtime-main.b997f406.js",
+    "static/css/2.115d7120.chunk.css",
+    "static/js/2.c5db7c1b.chunk.js",
+    "static/css/main.f6be16c9.chunk.css",
+    "static/js/main.19710058.chunk.js"
   ]
 }
