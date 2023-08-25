@@ -1,0 +1,132 @@
+.Contact {
+    background-color: #FFFFFA;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+	justify-content: center;
+}
+
+.Contact h2 {
+    font-size: calc(70px + 2vmin);
+    color: #EF626C;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left:0px;
+}
+
+.Contact .page-header {
+
+    font-family: "Lato", sans-serif;
+    font-size: calc(4px + 2vmin);
+    color: #78CDD7;
+    text-align: center;
+	margin-bottom: 30px;
+	margin-left: 0px;
+}
+
+
+@media screen and (max-width: 525px) {
+	.Contact .page-header {
+	  font-size: 20px;
+	  margin: 20px;
+	}
+
+	.contact-icons {
+		align-items: center;
+		margin: 10px auto;
+	}
+
+	.button.button--sacnite {
+		margin-left: 0 !important;
+	}
+  }
+
+
+/* Button style adapted from https://tympanus.net/Development/ButtonStylesInspiration/ */
+
+/* Sacnite */
+.button.button--sacnite {
+	width: 100px;
+	height: 100px;
+	min-width: 0;
+	padding: 0;
+	color: #fff;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
+	margin-left:30px;
+}
+
+.button--sacnite::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: inherit;
+	z-index: -1;
+	box-shadow: inset 0 0 0 50px #78CDD7;
+	-webkit-transform: scale3d(0.9, 0.9, 1);
+	transform: scale3d(0.9, 0.9, 1);
+	-webkit-transition: box-shadow 0.3s, -webkit-transform 0.3;
+	transition: box-shadow 0.3s, transform 0.3s;
+}
+
+.button--sacnite:hover {
+	color: #EF626C;
+}
+.button--sacnite.button--inverted:hover {
+	color: #EF626C;
+}
+.button--sacnite:hover::before {
+	box-shadow: inset 0 0 0 2px #EF626C;
+	-webkit-transform: scale3d(1, 1, 1);
+	transform: scale3d(1, 1, 1);
+}
+.button--sacnite.button--inverted:hover::before {
+	box-shadow: inset 0 0 0 2px #EF626C;
+}
+
+
+/* Common button styles */
+.button {
+	float: left;
+	display: block;
+	padding: 2em 2em;
+	border: none;
+    border-radius: 50%;
+	background: none;
+	color: inherit;
+	position: relative;
+	z-index: 1;
+	-moz-osx-font-smoothing: grayscale;
+	
+}
+
+.li-icon {
+	margin-top: 25px;
+	margin-left:29px;
+}
+
+.gh-icon {
+	margin-top: 25px;
+	margin-left:27px;
+}
+
+.phone-icon {
+	margin-left: 35px;
+	margin-top: 25px;
+}
+
+.mail-icon {
+	margin-left:27px;
+	margin-top: 25px;
+}
+.button:focus {
+	outline: none;
+}
+
+.contact-icons {
+	color: white;
+}
+

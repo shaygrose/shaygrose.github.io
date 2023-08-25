@@ -1,0 +1,57 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #0D5C63;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Lato", sans-serif;
+  font-size: calc(6px + 2vmin);
+  color: #287574;
+  text-align: center;
+  color: #FFFFFA;
+}
+
+.App-header h1 {
+  color: #FFFFFA;
+  font-size: calc(100px + 2vmin);
+  font-family: "Amatic SC";
+}
+
+.App-link {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.App-link:hover {
+  color: #EF626C;
+}
+
+.page-header {
+  margin-left: 70px;
+  padding-top: 20px;
+  margin-top: 0px;
+}
+
+.page-header h2 {
+  font-family: "Amatic SC";
+  font-size: calc(50px + 2vmin);
+}
+
+.page-content {
+  min-height: 100vh;
+  margin: 0;
+}

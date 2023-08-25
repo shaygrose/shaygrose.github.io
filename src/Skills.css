@@ -1,0 +1,20 @@
+.Skills {
+    background-color: #0D5C63;
+}
+
+.Skills h2 {
+    color: #EF626C;
+}
+
+.skills-chart {
+    width: 900px;
+    margin: auto;
+}
+
+
+@media screen and (max-width: 899px) {
+    .skills-chart {
+        width: 95%;
+    }
+  }
+
